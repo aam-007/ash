@@ -1,4 +1,4 @@
-# Makefile - PhonexOS with Persistence
+# Makefile - MaximusOS with Persistence
 
 all: kernel.bin
 
