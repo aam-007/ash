@@ -1,4 +1,4 @@
-/* kernel.c - PhonexOS (Robust ATA Driver) */
+/* kernel.c - MaximusOs (Robust ATA Driver) */
 /* Features:
  * 1. VGA Text Mode (Colors)
  * 2. Keyboard (Shift)
